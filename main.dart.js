@@ -66365,7 +66365,7 @@ return!0},
 $S:41}
 A.DF.prototype={
 N(a){var s=null
-return new A.tO(new A.tJ(s),"Sidebar Layout",A.ag3(s,B.DW,s,A.agk(A.i7())),!1,s)}}
+return new A.tO(new A.tJ(s),"My Portfolio",A.ag3(s,B.DW,s,A.agk(A.i7())),!1,s)}}
 A.tJ.prototype={
 al(){return new A.JW(B.k)}}
 A.JW.prototype={
